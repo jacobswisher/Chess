@@ -17,7 +17,7 @@ To have the computer play the next move simply click "AI Move"
 
 When you are finished playing the game, end it by closing the GUI window.
 
-##Example Move
+## Example Move
 
 In this example, in the classic queens gambit position, the user (black) is about to play the move 2. e6 which in our program looks like "e7" -> "e6". 
 
