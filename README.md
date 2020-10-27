@@ -2,6 +2,10 @@
 
 SwishChess is a simple GUI (Graphical User Interface) for playing chess. Two people can play together on one system or you can battle the computer!
 
+##Author
+
+Created by Jacob Swisher <jacobswisher853@gmail.com>
+
 ## Installation
 
 You must have Java installed to run this program. You can find the installation for Windows here: https://www.java.com/en/download/
