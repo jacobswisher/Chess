@@ -1,6 +1,7 @@
 # SwishChess
 
 SwishChess is a simple GUI (Graphical User Interface) for playing chess. Two people can play together on one system or you can battle the computer!
+![alt text](https://cdn.pixabay.com/photo/2018/11/07/23/51/chess-3801531_960_720.jpg)
 
 ## Author
 
