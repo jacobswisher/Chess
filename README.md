@@ -26,11 +26,7 @@ Right click on "jarexample.jar" then click "Open". You can now play SwishChess!
 
 ## Usage
 
-To play the game, choose whether you want to play as black or white. If you are playing as black, click "AI Move" then make your move. If you are playing as white play your move immediately.
-
-To make a move, insert your starting square (E.g. "e2") in the first text box and your ending square in the next text box. The program will then tell you if your move is valid and move it if so.
-
-When you are done with your game simply close the program and open again to start a new game.
+Check the "UsageInstructions.md" file for usage intructions
 
 ## Code example 
 
